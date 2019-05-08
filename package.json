@@ -1,0 +1,15 @@
+{
+  "name": "mario",
+  "version": "1.0.0",
+  "description": "Just something with fun, enjoyed the time with Mario.",
+  "main": "index.html",
+  "scripts": {
+    "local": "npx http-server ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klokt-valg",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
